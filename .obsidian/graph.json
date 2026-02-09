@@ -8,24 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"2 курс 2 семестр/Операционные системы, среды и оболочки/Практики\"  ",
+      "query": "path:\"2 курс/2 курс 1 семестр/Основы ИБ\"  ",
       "color": {
         "a": 1,
-        "rgb": 8259335
+        "rgb": 10882060
       }
     },
     {
-      "query": "path:\"2 курс 2 семестр/Операционные системы, среды и оболочки/Лекции\"  ",
+      "query": "path:\"2 курс/2 курс 1 семестр/Социально-психологические основы управленческой деятельности\"  ",
       "color": {
         "a": 1,
-        "rgb": 10618631
+        "rgb": 10745088
       }
     },
     {
-      "query": "file:Операционные системы, среды и оболочки",
+      "query": "path:\"2 курс/2 курс 1 семестр/Теория информации\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 1572956
+      }
+    },
+    {
+      "query": "path:\"2 курс/2 курс 2 семестр/Операционные системы, среды и оболочки\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
@@ -34,11 +41,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.4019828977760966,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 0.395833333333333,
+  "linkDistance": 30,
+  "scale": 0.047787637109623235,
   "close": true
 }
